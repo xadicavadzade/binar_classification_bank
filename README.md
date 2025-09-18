@@ -13,7 +13,7 @@ This project implements a binary classification model to predict whether a custo
 # Model Performance Analysis
 
 
-Let me provide a comprehensive analysis of your model results:
+Let me provide a comprehensive analysis of my model results:
 
 
 # Overall Performance
@@ -22,7 +22,7 @@ Let me provide a comprehensive analysis of your model results:
 93% accuracy is excellent for a binary classification task
 
 
-Your stacking ensemble approach is working very well
+My stacking ensemble approach is working very well
 
 
 # Class-wise Performance Breakdown
