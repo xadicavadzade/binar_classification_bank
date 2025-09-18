@@ -4,19 +4,19 @@ A machine learning project for predicting bank marketing campaign outcomes using
 
 
 
-Project Overview
+# Project Overview
 
 
 This project implements a binary classification model to predict whether a customer will subscribe to a bank term deposit based on their demographic, financial, and campaign interaction data. The model uses a stacking ensemble approach combining multiple algorithms for improved prediction accuracy.
 
 
-Model Performance Analysis
+# Model Performance Analysis
 
 
 Let me provide a comprehensive analysis of your model results:
 
 
-Overall Performance
+# Overall Performance
 
 
 93% accuracy is excellent for a binary classification task
@@ -25,10 +25,10 @@ Overall Performance
 Your stacking ensemble approach is working very well
 
 
-Class-wise Performance Breakdown
+# Class-wise Performance Breakdown
 
 
-Class 0 (No Subscription - 8,804 samples):
+# Class 0 (No Subscription - 8,804 samples):
 
 
 ✅ Precision: 98% - Excellent precision
@@ -41,7 +41,7 @@ Class 0 (No Subscription - 8,804 samples):
 
 
 
-Class 1 (Subscription - 1,196 samples):
+# Class 1 (Subscription - 1,196 samples):
 
 
 
