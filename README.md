@@ -14,19 +14,29 @@ Model Performance Analysis
 
 
 Let me provide a comprehensive analysis of your model results:
+
+
 Overall Performance
 
 
 93% accuracy is excellent for a binary classification task
+
+
 Your stacking ensemble approach is working very well
 
 
 Class-wise Performance Breakdown
+
+
 Class 0 (No Subscription - 8,804 samples):
 
 
 ✅ Precision: 98% - Excellent precision
+
+
 ✅ Recall: 90% - Very good recall
+
+
 ✅ F1-Score: 94% - Outstanding balance
 
 
@@ -36,5 +46,9 @@ Class 1 (Subscription - 1,196 samples):
 
 
 ⚠️ Precision: 55% - Room for improvement
+
+
 ✅ Recall: 84% - Good recall
+
+
 ⚠️ F1-Score: 66% - Moderate performance
